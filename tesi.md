@@ -15,7 +15,6 @@ Papers developed within CSecGroup, listed in reverse chronological order.
 {% else %}
 {{tesi.title}}. {{ tesi.year }}
 {% endif %}
-Supervisors: {% assign first=1 %}{% for sup in tesi.supervisors %}{% unless first==1 %}, {% endunless %}[{{ sup.name }}]({{ sup.url }}){% assign first=0 %}{% endfor %}
 
 {% if tesi.host %}
 Hosted by {{ tesi.host }}
