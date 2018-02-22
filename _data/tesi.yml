@@ -1,0 +1,28 @@
+- title: 应用安全:JAVA反序列化漏洞之殇
+  author: Cryin'
+  period: 10/2017  - 12/2017
+  year: 2017
+  link: /Papers/应用安全:JAVA反序列化漏洞之殇.pdf
+  supervisors: 
+      - name: Cryin'
+        url: /people/cryin
+- title: SDL-软件安全设计初窥
+  author: Cryin'
+  period: 11/2016 - 7/2017
+  year: 2016
+  link: /Papers/SDL-软件安全设计初窥.pdf
+  supervisors: 
+      - name: Cryin'
+        url: /people/cryin
+
+- title: Talking About Exploit Writing
+  author: Cryin'
+  period: 1/9/2011 - 31/03/2012
+  year: 2011
+  link: /Papers/Talking About Exploit Writing.pdf
+  supervisors:
+      - name: Cryin'
+        url: /people/cryin
+  pubblications:
+    - title: "Talking About Exploit Writing", in Insight-labs internal technology sharing Weekly 2011.
+      link: https://www.slideshare.net/sbha0909/talking-about-exploit-writing?qid=124f9471-547b-430e-a408-698b90d47f6a
