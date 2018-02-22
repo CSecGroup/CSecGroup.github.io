@@ -6,6 +6,7 @@
   supervisors: 
       - name: Cryin'
         url: /people/cryin
+        
 - title: SDL-软件安全设计初窥
   author: Cryin'
   period: 11/2016 - 7/2017
@@ -24,5 +25,5 @@
       - name: Cryin'
         url: /people/cryin
   pubblications:
-    - title: "Talking About Exploit Writing", in Insight-labs internal technology sharing Weekly 2011.
-      link: https://www.slideshare.net/sbha0909/talking-about-exploit-writing?qid=124f9471-547b-430e-a408-698b90d47f6a
+  - title: "Talking About Exploit Writing", in Insight-labs internal technology sharing Weekly 2011.
+    link: https://www.slideshare.net/sbha0909/talking-about-exploit-writing?qid=124f9471-547b-430e-a408-698b90d47f6a
