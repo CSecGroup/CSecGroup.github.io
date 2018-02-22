@@ -1,1 +1,15 @@
-theme: jekyll-theme-cayman
+# Site settings
+title: CSecGroup
+email: info@CSecGroup.com
+description: "Code Security Group - cSec"
+baseurl: ""
+url: "http://csecgroup.com"
+github_username:  CSecGroup
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+gems: ['kramdown']
+exclude: ['config.ru', 'Gemfile', 'Gemfile.lock', 'vendor', 'Procfile', 'Rakefile']
+
+theme: minima
