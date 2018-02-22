@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+---
+layout: page
+title: Code Security Group
+---
 
-You can use the [editor on GitHub](https://github.com/CSecGroup/CSecGroup.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+<!-- ![The CSecGroup logo should be here :( ](/pics/logo.png) -->
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<!--# [Paper](http://csecgroup.com/) - [About Team](http://csecgroup.com/)-->
 
-### Markdown
+The Code Security Group (CSecGroup), has been founded in August 2014. The mission of the group is to bring together researchers, students and practitioners interested in web applications security . The main research topics of the group are Static Code Analysis(SAST) and Web Application Vulnerabilities Scanner(DAST) and Interactive Application Security Testing(IAST).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+CSecGroup is committed to providing the enterprise with Best Practices for the use of Static Code Analysis within a Real-World Secure Development Lifecycle.
 
-```markdown
-Syntax highlighted code block
+<img src="/pics/Logosc_506951519270654.jpg" width="300" />
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CSecGroup/CSecGroup.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
