@@ -24,6 +24,3 @@
   supervisors:
       - name: Cryin'
         url: /people/cryin
-  pubblications:
-  - title: "Talking About Exploit Writing", in Insight-labs internal technology sharing Weekly 2011.
-    link: https://www.slideshare.net/sbha0909/talking-about-exploit-writing?qid=124f9471-547b-430e-a408-698b90d47f6a
