@@ -9,8 +9,7 @@ title: Cryin'
 ## Contacts
 
 - **Office**: No. 9 Information Road A, Haidian District, Beijing, China
-- **Email**: *firstname*.*416049355*@qq.com
-- **weixin**: justear
+- **Email**: 416049355#qq.com
 
 ## Personal links
 - [Twitter](https://twitter.com/sbha0909)
