@@ -3,7 +3,7 @@ layout: page
 title: Hardy
 ---
 
-![Hardy's pic is missing.](https://avatars0.githubusercontent.com/u/17446217?s=460&v=4)
+![Hardy's pic is missing.](https://avatars0.githubusercontent.com/u/17446217?s=460&v=4){:height="200px" width="300px"}
 
 
 ## Contacts
