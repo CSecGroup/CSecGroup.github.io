@@ -1,10 +1,10 @@
 # Site settings
 title: CSecGroup
 email: sbha0909#gmail.com
-description: "Code Security Group - CSecGroup"
+description: "Code Security Group"
 baseurl: ""
 url: "http://csecgroup.com"
-github_username:  CSecGroup
+#github_username:  CSecGroup
 
 # Build settings
 markdown: kramdown
