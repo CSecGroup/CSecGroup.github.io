@@ -3,14 +3,10 @@ title: People
 layout: page
 ---
 
-# Staff
+# Members
 
 * [Cryin'](cryin)
 * [Hardy](hardy)
 * [ap3255](ap3255)
 
-# Ph.D. Students, Collaborators and Student Members
-
-
-# External Collaborators
 
