@@ -1,4 +1,4 @@
-[CSecGroup Blog](https://csecgroup.github.io/)
+[CSecGroup Website](https://csecgroup.github.io/)
 
 The Code Security Group (CSecGroup), has been founded in August 2014. The mission of the group is to bring together researchers, students and practitioners interested in web applications security . The main research topics of the group are Static Code Analysis(SAST) and Web Application Vulnerabilities Scanner(DAST) and Interactive Application Security Testing(IAST).
 
