@@ -8,9 +8,12 @@ title: Cryin'
 
 ## Contacts
 
-- **Office**: No. 9 Information Road A, Haidian District, Beijing, China
-- **Email**: 416049355#qq.com
+- **Office**: Beijing, China
+
+## What he focused on?
+  1. Web Security Research,Code Audit,SDL
+  2. Python,JAVA,PHP
+  3. Static Code Analysis,Web Vulnerability Scan, Web Vulnerability Analysis
 
 ## Personal links
-- [Twitter](https://twitter.com/sbha0909)
-- [GitHub](https://github.com/cryin)
+- [GitHub](http://cryin.github.io/)
