@@ -4,7 +4,7 @@ title: SDL-软件安全设计初窥
 ---
 
 
-> Auth by CSecGroup
+> Auth by Cryin'@CSecGroup
 
 ## 前言
 
