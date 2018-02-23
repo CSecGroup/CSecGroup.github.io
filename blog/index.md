@@ -6,32 +6,11 @@ title: CSecGroup'Blog
 Blog posted within CSecGroup, listed in reverse chronological order.
 
 
-{% for tesi in site.data.tesi %}
-
 ---
 
-{{ tesi.author }}. {% if tesi.link %}
-[{{ tesi.title }}]({{ tesi.link }}). {{ tesi.year }}
-{% else %}
-{{tesi.title}}. {{ tesi.year }}
-{% endif %}
-
-{% if tesi.host %}
-Hosted by {{ tesi.host }}
-{% endif %}
-
-{% if tesi.pubblications %}
-Publications
-    {% for pub in tesi.pubblications %}
-
-    {% if pub.link %}
-0. [{{ pub.title }}]({{ pub.link }})
-    {% else %}
-0. {{ pub.title }}
-    {% endif %}
-
-    {% endfor %}
-
-{% endif %}
-
-{% endfor %}
+* 2017
+  * 应用安全:JAVA反序列化漏洞之殇. 2017.10.12
+* 2016
+  * [SDL-软件安全设计初窥](sdl-software-security-design.md). 2016.11.23
+* 2011
+  * [Talking About Exploit Writing](talking-about-exploit-writing.pdf). 2011.08.8
