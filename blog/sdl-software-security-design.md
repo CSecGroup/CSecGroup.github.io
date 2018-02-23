@@ -1,6 +1,6 @@
 ---
 layout: page
-title: SDL:Software Security Design
+title: SDL-软件安全设计初窥
 ---
 
 
