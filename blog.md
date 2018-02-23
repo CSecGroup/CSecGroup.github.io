@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Whitepapers
+title: Blog
 ---
 
-Papers developed within CSecGroup, listed in reverse chronological order.
+Blog posted within CSecGroup, listed in reverse chronological order.
 
 
 {% for tesi in site.data.tesi %}
