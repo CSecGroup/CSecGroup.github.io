@@ -12,5 +12,3 @@ Blog posted within CSecGroup, listed in reverse chronological order.
   * 应用安全:JAVA反序列化漏洞之殇. 2017.10.12
 * 2016
   * [SDL-软件安全设计初窥](sdl-software-security-design.md). 2016.11.23
-* 2011
-  * [Talking About Exploit Writing](talking-about-exploit-writing.pdf). 2011.08.8
