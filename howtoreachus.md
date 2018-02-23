@@ -10,9 +10,5 @@ title: How to reach us
 
 ## Contacts
 
-- Email: sbha0909#gmail.com
 - weixin public number: CSecGroup
-
-## Github
-
-https://github.com/CSecGroup
+- github : https://github.com/CSecGroup
