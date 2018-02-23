@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Blog
+title: CSecGroup'Blog
 ---
 
 Blog posted within CSecGroup, listed in reverse chronological order.
