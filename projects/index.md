@@ -10,4 +10,4 @@ title: Projects
 # Research Projects
 
 - [Wafid](https://github.com/CSecGroup/wafid), Wafid identify and fingerprint Web Application Firewall (WAF) products.
-- [Assets Topo Scan](https://github.com/CSecGroup/topscan), funded by Hardy December 01, 2016. Toposcan network topology discovery uses C language, SNMP. protocol and nmap to realize network asset topology discovery. 
+- [Toposcan](https://github.com/CSecGroup/Toposcan), funded by Hardy December 01, 2016. Toposcan Network topology discovery uses C language by SNMP protocol and nmap(7.12) to realize network assets topology discovery. 
