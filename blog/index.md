@@ -7,7 +7,8 @@ Blog posted within CSecGroup, listed in reverse chronological order.
 
 
 ---
-
+* 2018
+  * [从S2-052补丁分析Xstream反序列化漏洞修复方案](Fix-xstream-object-deserialization-via-White-Listing.md). 2018.03.12
 * 2017
   * [应用安全:JAVA反序列化漏洞之殇](secure-development-java-deserialization-vulnerability.md). 2017.10.12
   * [Struts2漏洞利用原理及OGNL机制研究](struts2-vulnerability-analysis-and-OGNL-research.md). 2017.03
