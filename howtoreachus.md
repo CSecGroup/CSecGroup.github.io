@@ -12,7 +12,7 @@ title: How to reach us
 
 - weixin public number: CSecGroup
 - github : https://github.com/CSecGroup
-- mail : sbha0909#gmail.com
+- mail : 79564065#qq.com
 
 ## join us?
 
