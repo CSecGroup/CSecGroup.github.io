@@ -1,6 +1,6 @@
 ---
 layout: page
-title: SDL软件安全设计初窥
+title: GitLab web hooks SSRF(CVE-2018-8801) Patch analysis and How to safely fix SSRF
 ---
 
 
