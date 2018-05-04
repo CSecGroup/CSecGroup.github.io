@@ -110,5 +110,5 @@ ssrf利用的请求链接形如: http://www.evil.com/redirect?url=http://127.0.0
 
 #### 参考
 * [feat: support safeCurl for SSRF protection by dead-horse · Pull Request #32 · eggjs/egg-security · GitHub](https://github.com/eggjs/egg-security/pull/32)
-* [Fanout | Blog » How to safely invoke Webhooks](http://blog.fanout.io/2014/01/27/how-to-safely-invoke-webhooks/)
+* [Fanout Blog » How to safely invoke Webhooks](http://blog.fanout.io/2014/01/27/how-to-safely-invoke-webhooks/)
 * [SSRF vulnerability in gitlab.com webhook (#41642) · Issues · GitLab.org / GitLab Community Edition · GitLab](https://gitlab.com/gitlab-org/gitlab-ce/issues/41642)
