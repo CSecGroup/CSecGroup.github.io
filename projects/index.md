@@ -9,5 +9,6 @@ title: Projects
 
 # Research Projects
 
+- [Javaid](https://github.com/Cryin/JavaID), java source code static code analysis and danger function identify prog.
 - [Wafid](https://github.com/CSecGroup/wafid), Wafid identify and fingerprint Web Application Firewall (WAF) products.
-- [Toposcan](https://github.com/CSecGroup/Toposcan), funded by Hardy December 01, 2016. Toposcan Network topology discovery uses C language by SNMP protocol and nmap(7.12) to realize network assets topology discovery. 
+- [Toposcan](https://github.com/CSecGroup/Toposcan), Toposcan Network topology discovery uses C language by SNMP protocol and nmap(7.12) to realize network assets topology discovery. 
