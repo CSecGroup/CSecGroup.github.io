@@ -5,7 +5,7 @@ title: Projects
 
 # Training Projects
 
-- **[CSecGoat - Java Web vulnerability experiment application platform](#)**, funded by CSecGroup. 
+- **[CSecGoat - Java Web vulnerability experiment application platform](https://github.com/CSecGroup/CSecGoat)**, funded by CSecGroup. 
 
 # Research Projects
 
